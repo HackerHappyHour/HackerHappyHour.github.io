@@ -70,3 +70,4 @@ deploy:
   type: git
   repo: git@github.com:HackerHappyHour/hackerhappyhour.github.io.git
   branch: master
+  savefiles: ['CNAME']
