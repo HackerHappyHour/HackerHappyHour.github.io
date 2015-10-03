@@ -1,0 +1,23 @@
+{
+  "name": "hackerhappyhour.github.io",
+  "version": "0.1.0",
+  "description": "Website for HackerHappyHour",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HackerHappyHour/HackerHappyHour.github.io.git"
+  },
+  "keywords": [
+    "HackerHappyHour",
+    "H3"
+  ],
+  "author": "Brian Vanderbusch <brian@normalgravity.com> (https://github.com/LongLiveCHIEF)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackerHappyHour/HackerHappyHour.github.io/issues"
+  },
+  "homepage": "https://github.com/HackerHappyHour/HackerHappyHour.github.io#readme"
+}
